@@ -1,0 +1,12 @@
+AUDIO/*
+.ipynb_checkpoints/*
+*.ipynb
+*.csv
+*.mp3
+*.wav
+*.pt
+tacotron2/outdir/*
+tacotron2/out_macron_1h/*
+tacotron2/out_macron_2/*
+tacotron2/out_macron_30_min/*
+tacotron2/out_obama/*
