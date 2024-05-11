@@ -6,10 +6,10 @@ AUDIO/*
 *.mp3
 *.wav
 *.pt
-tacotron2_custom3/outdir/*
-tacotron2_custom3/out_macron_1h/*
-tacotron2_custom3/out_macron_2/*
-tacotron2_custom3/out_macron_30_min/*
-tacotron2_custom3/out_obama/*
-tacotron2_custom3/apex/*
-# tacotron2___/*
+tacotron2/outdir/*
+tacotron2/out_macron_1h/*
+tacotron2/out_macron_2/*
+tacotron2/out_macron_30_min/*
+tacotron2/out_obama/*
+tacotron2/apex/*
+
