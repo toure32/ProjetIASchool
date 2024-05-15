@@ -1,7 +1,8 @@
 AUDIO/*
 **/__pycache__/
 .ipynb_checkpoints/*
-*.ipynb
+**/*.ipynb
+!/*.ipynb
 *.csv
 *.mp3
 *.wav
